@@ -1,5 +1,4 @@
-# Projeto AspNet API para Controle de Funcionários
-Treinamento C# WebDeveloper COTI Informática
+# Projeto AspNet API para Controle de Clientes
 
 ## Tecnologias utilizadas:
 * AspNet 6 API
